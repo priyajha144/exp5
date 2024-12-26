@@ -1,4 +1,8 @@
 #includ<stdio.h>
+int mul(int a, intb)
+{
+return a*b;
+}
 int main()
 {
   printf("%d",add(4,5));
